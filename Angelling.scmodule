@@ -1,0 +1,12 @@
+{
+    "name": "AngelLingModule",
+    "uniqueID": "com.azukinekop.AngelLing",
+    "phases": [
+        {
+            "name": "AngelLing MatCaps",
+            "phase": "reflection",
+            "path": "AngelLing.hlsl",
+
+        }
+    ]
+}
